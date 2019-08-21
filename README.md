@@ -1,3 +1,3 @@
-# oraculum_backend1
+# oraculum_backend
 
 Oraculum backend prototype
